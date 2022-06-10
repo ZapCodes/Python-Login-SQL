@@ -5,7 +5,7 @@ Make sure you already have installed all the modules used in this project. Pleas
 
 
 Steps to follow after installing all the modules. Otherwise this application will not work properly.
-
+# OPTIONAL
 ->Create a database with this name, "student_database"
 ->create a table with this name, "student_register"
 
