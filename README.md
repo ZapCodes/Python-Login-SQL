@@ -1,4 +1,4 @@
-# login-page-using-Python-and-MySQL
+# About
 It's a GUI project using python tkinter and MySQL database.
 
 Make sure you already have installed all the modules used in this project. Please see the requirement.txt file for all the requirements.
